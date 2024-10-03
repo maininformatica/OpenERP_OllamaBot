@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "OllamaBot",
+    'name': "Ollama Bot",
     'summary': "Chat IA con Ollama",
     'description': """
         Este módulo expande las posibilidades de odooBot usando Ollama como principal motor de IA.
         Su principal función es añadir un chat bot dentro de odoo que permita hacer consultas rápidas.
     """,
-    'author': "Main Informática (Rubén Bonilla)",
+    'author': "main informàtica (Rubén Bonilla)",
     'website': "https://www.main-informatica.com/",
     'category': 'Tools',
     'version': '1.0',
