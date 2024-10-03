@@ -4,8 +4,7 @@
     'summary': "Chat IA con Ollama",
     'description': """
         Este módulo expande las posibilidades de odooBot usando Ollama como principal motor de IA.
-        Su principal función es añadir un chat bot dentro de odoo que permita tanto hacer consultas más rápidas, 
-        como también facilitar la lectura e información de ficheros.
+        Su principal función es añadir un chat bot dentro de odoo que permita hacer consultas rápidas.
     """,
     'author': "Main Informática (Rubén Bonilla)",
     'website': "https://www.main-informatica.com/",
