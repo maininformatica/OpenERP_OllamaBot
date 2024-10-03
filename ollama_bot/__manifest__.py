@@ -5,6 +5,13 @@
     'description': """
         Este módulo expande las posibilidades de odooBot usando Ollama como principal motor de IA.
         Su principal función es añadir un chat bot dentro de odoo que permita hacer consultas rápidas.
+        ----
+        This module expands the possibilities of odooBot using Ollama as the main AI engine. 
+        Its main function is to add a chat bot within odoo that allows for quick queries.
+    
+        
+        pip install langchain, langchain_community
+        
     """,
     'author': "main informàtica (Rubén Bonilla)",
     'website': "https://www.main-informatica.com/",
