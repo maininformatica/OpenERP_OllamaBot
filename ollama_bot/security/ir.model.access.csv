@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+ollama_bot.access_ollama_model,access_ollama_model,ollama_bot.model_ollama_model,base.group_user,1,1,1,1
+ollama_bot.access_ollama_tempreture,access_ollama_tempreture,ollama_bot.model_ollama_tempreture,base.group_user,1,1,1,1
